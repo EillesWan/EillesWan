@@ -1,10 +1,25 @@
-- 你好，我是丌幂/金羿
-- 可以在B站关注我！
+金羿、Eilles，全网社媒同名，见到的这个头像应该都是我，查成分很方便。\
+喜蓝色、白色、黑色；善执笔、卧床、敲键；好风雅、摸鱼、饮食。\
+**ENGLISH OK**, but I will response in CHINESE.
 
+一名普普通通的学牲；穿梭在各种感兴趣的东西之间，时不时掉落一点翻译贡献。
+
+兴趣点大多关于《我的世界》、《原神》和 _Nonebot_ 开发。
+
+[![][Gitee: 金羿ELS]](https://gitee.com/EillesWan)
 [![][Bilibili: 金羿ELS]](https://space.bilibili.com/397369002/)
+[![][萌娘百科: W-YI]](https://zh.moegirl.org.cn/User:W-YI)
+[![][轻雪社区: 金羿ELS]](https://lab.liteyuki.icu/@Eilles)
+[![][QQ群: 嚻嚻金羿]](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Er0L6zcDs56KT09nzIP4syFLLZ738ics&authKey=64g0ym11%2BerZi7THzWzyWR2oSbBBM687y6jqKg%2BKP3qGi3Oa%2BZtLbwL5WQiMWSCQ&noverify=0&group_code=1070505462)
+[![][Twitter: 金羿ELS]](https://x.com/EillesW)
+[![][Telegram: 金羿]](t.me/EillesWan)
 
-一名普普通通的大学牲
 
-项目大多关于《我的世界》
+[Bilibili: 金羿ELS]: https://img.shields.io/badge/Bilibili-金羿ELS-00A1E7?style=for-the-badge
+[Gitee: 金羿ELS]: https://img.shields.io/badge/Gitee-金羿ELS-00A1E7?style=for-the-badge
+[萌娘百科: W-YI]: https://img.shields.io/badge/萌娘百科-W_YI-00A1E7?style=for-the-badge
+[轻雪社区: 金羿ELS]: https://img.shields.io/badge/轻雪社区-金羿ELS-00A1E7?style=for-the-badge
+[QQ群: 嚻嚻金羿]: https://img.shields.io/badge/QQ群-嚻嚻金羿-00A1E7?style=for-the-badge
+[Twitter: 金羿ELS]: https://img.shields.io/badge/Twitter-金羿ELS-00A1E7?style=for-the-badge
+[Telegram: 金羿]: https://img.shields.io/badge/Telegram-金羿-00A1E7?style=for-the-badge
 
-[Bilibili: 金羿ELS]: https://img.shields.io/badge/Bilibili-%E5%87%8C%E4%BA%91%E9%87%91%E7%BE%BF-00A1E7?style=for-the-badge
