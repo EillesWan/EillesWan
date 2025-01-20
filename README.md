@@ -1,3 +1,5 @@
+<a style="writing-mode: vertical-rl; transform: rotate(180deg); text-align:start">
+
 金羿、Eilles，全网社媒同名，见到的这个头像应该都是我，查成分很方便。\
 喜蓝色、白色、黑色；善执笔、卧床、敲键；好风雅、摸鱼、饮食。\
 **ENGLISH OK**, but I will response in CHINESE.
@@ -6,6 +8,8 @@
 
 兴趣点大多关于《我的世界》、《原神》和 _Nonebot_ 开发。
 
+</a>
+
 [![][Gitee: 金羿ELS]](https://gitee.com/EillesWan)
 [![][Bilibili: 金羿ELS]](https://space.bilibili.com/397369002/)
 [![][萌娘百科: W-YI]](https://zh.moegirl.org.cn/User:W-YI)
@@ -13,6 +17,10 @@
 [![][QQ群: 嚻嚻金羿]](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Er0L6zcDs56KT09nzIP4syFLLZ738ics&authKey=64g0ym11%2BerZi7THzWzyWR2oSbBBM687y6jqKg%2BKP3qGi3Oa%2BZtLbwL5WQiMWSCQ&noverify=0&group_code=1070505462)
 [![][Twitter: 金羿ELS]](https://x.com/EillesW)
 [![][Telegram: 金羿]](t.me/EillesWan)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=EillesWan&show_icons=true&theme=dracula&locale=cn&hide_border=true" />
+</a>
 
 
 [Bilibili: 金羿ELS]: https://img.shields.io/badge/Bilibili-金羿ELS-00A1E7?style=for-the-badge
