@@ -19,15 +19,15 @@
 [![][Telegram: 金羿]](t.me/EillesWan)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=EillesWan&show_icons=true&theme=dracula&locale=cn&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=EillesWan&show_icons=true&theme=dracula&locale=cn&hide_border=true&title_color=8F93FF" />
 </a>
 
 
-[Bilibili: 金羿ELS]: https://img.shields.io/badge/Bilibili-金羿ELS-00A1E7?style=for-the-badge
-[Gitee: 金羿ELS]: https://img.shields.io/badge/Gitee-金羿ELS-00A1E7?style=for-the-badge
-[萌娘百科: W-YI]: https://img.shields.io/badge/萌娘百科-W_YI-00A1E7?style=for-the-badge
-[轻雪社区: 金羿ELS]: https://img.shields.io/badge/轻雪社区-金羿ELS-00A1E7?style=for-the-badge
-[QQ群: 嚻嚻金羿]: https://img.shields.io/badge/QQ群-嚻嚻金羿-00A1E7?style=for-the-badge
-[Twitter: 金羿ELS]: https://img.shields.io/badge/Twitter-金羿ELS-00A1E7?style=for-the-badge
-[Telegram: 金羿]: https://img.shields.io/badge/Telegram-金羿-00A1E7?style=for-the-badge
+[Bilibili: 金羿ELS]: https://img.shields.io/badge/Bilibili-金羿ELS-00A1E7?style=for-the-badge&labelColor=4E4C9C
+[Gitee: 金羿ELS]: https://img.shields.io/badge/Gitee-金羿ELS-00A1E7?style=for-the-badge&labelColor=4E4C9C
+[萌娘百科: W-YI]: https://img.shields.io/badge/萌娘百科-W--YI-00A1E7?style=for-the-badge&labelColor=4E4C9C
+[轻雪社区: 金羿ELS]: https://img.shields.io/badge/轻雪社区-金羿ELS-00A1E7?style=for-the-badge&labelColor=4E4C9C
+[QQ群: 嚻嚻金羿]: https://img.shields.io/badge/QQ群-嚻嚻金羿-00A1E7?style=for-the-badge&labelColor=4E4C9C
+[Twitter: 金羿ELS]: https://img.shields.io/badge/Twitter-金羿ELS-00A1E7?style=for-the-badge&labelColor=4E4C9C
+[Telegram: 金羿]: https://img.shields.io/badge/Telegram-金羿-00A1E7?style=for-the-badge&labelColor=4E4C9C
 
