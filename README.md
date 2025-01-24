@@ -12,7 +12,6 @@
 
 [![][Gitee: 金羿ELS]](https://gitee.com/EillesWan)
 [![][Bilibili: 金羿ELS]](https://space.bilibili.com/397369002/)
-[![][萌娘百科: W-YI]](https://zh.moegirl.org.cn/User:W-YI)
 [![][轻雪社区: 金羿ELS]](https://lab.liteyuki.icu/@Eilles)
 [![][QQ群: 嚻嚻金羿]](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Er0L6zcDs56KT09nzIP4syFLLZ738ics&authKey=64g0ym11%2BerZi7THzWzyWR2oSbBBM687y6jqKg%2BKP3qGi3Oa%2BZtLbwL5WQiMWSCQ&noverify=0&group_code=1070505462)
 [![][Twitter: 金羿ELS]](https://x.com/EillesW)
