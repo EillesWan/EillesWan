@@ -22,11 +22,11 @@
 </a>
 
 
-[Bilibili: 金羿ELS]: https://img.shields.io/badge/Bilibili-金羿ELS-00A1E7?style=for-the-badge&labelColor=4E4C9C
-[Gitee: 金羿ELS]: https://img.shields.io/badge/Gitee-金羿ELS-00A1E7?style=for-the-badge&labelColor=4E4C9C
-[萌娘百科: W-YI]: https://img.shields.io/badge/萌娘百科-W--YI-00A1E7?style=for-the-badge&labelColor=4E4C9C
-[轻雪社区: 金羿ELS]: https://img.shields.io/badge/轻雪社区-金羿ELS-00A1E7?style=for-the-badge&labelColor=4E4C9C
-[QQ群: 嚻嚻金羿]: https://img.shields.io/badge/QQ群-嚻嚻金羿-00A1E7?style=for-the-badge&labelColor=4E4C9C
-[Twitter: 金羿ELS]: https://img.shields.io/badge/Twitter-金羿ELS-00A1E7?style=for-the-badge&labelColor=4E4C9C
-[Telegram: 金羿]: https://img.shields.io/badge/Telegram-金羿-00A1E7?style=for-the-badge&labelColor=4E4C9C
+[Bilibili: 金羿ELS]: https://img.shields.io/badge/哔站-金羿ELS-00A1E7?style=for-the-badge&labelColor=4E4C9C
+[Gitee: 金羿ELS]: https://img.shields.io/badge/码云-金羿ELS-00A1E7?style=for-the-badge&labelColor=4E4C9C
+[萌娘百科: W-YI]: https://img.shields.io/badge/萌百-W--YI-00A1E7?style=for-the-badge&labelColor=4E4C9C
+[轻雪社区: 金羿ELS]: https://img.shields.io/badge/雪社-金羿ELS-00A1E7?style=for-the-badge&labelColor=4E4C9C
+[QQ群: 嚻嚻金羿]: https://img.shields.io/badge/Q群-嚻嚻金羿-00A1E7?style=for-the-badge&labelColor=4E4C9C
+[Twitter: 金羿ELS]: https://img.shields.io/badge/推特-金羿ELS-00A1E7?style=for-the-badge&labelColor=4E4C9C
+[Telegram: 金羿]: https://img.shields.io/badge/电报-金羿-00A1E7?style=for-the-badge&labelColor=4E4C9C
 
