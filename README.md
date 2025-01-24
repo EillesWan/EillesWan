@@ -16,7 +16,7 @@
 [![][轻雪社区: 金羿ELS]](https://lab.liteyuki.icu/@Eilles)
 [![][QQ群: 嚻嚻金羿]](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Er0L6zcDs56KT09nzIP4syFLLZ738ics&authKey=64g0ym11%2BerZi7THzWzyWR2oSbBBM687y6jqKg%2BKP3qGi3Oa%2BZtLbwL5WQiMWSCQ&noverify=0&group_code=1070505462)
 [![][Twitter: 金羿ELS]](https://x.com/EillesW)
-[![][Telegram: 金羿]](t.me/EillesWan)
+[![][Telegram: 金羿]](https://t.me/EillesWan)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=EillesWan&show_icons=true&theme=dracula&locale=cn&hide_border=true&title_color=8F93FF" />
