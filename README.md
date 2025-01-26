@@ -1,5 +1,7 @@
 <a style="writing-mode: vertical-rl; transform: rotate(180deg); text-align:start">
 
+尽量别给我库的管理权限，人老了，容易出事
+
 金羿、Eilles，全网社媒同名，见到的这个头像应该都是我，查成分很方便。\
 喜蓝色、白色、黑色；善执笔、卧床、敲键；好风雅、摸鱼、饮食。\
 **ENGLISH OK**, but I will response in CHINESE.
