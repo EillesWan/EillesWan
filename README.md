@@ -4,11 +4,19 @@
 
 金羿、Eilles，全网社媒同名，见到的这个头像应该都是我，查成分很方便。\
 喜蓝色、白色、黑色；善执笔、卧床、敲键；好风雅、摸鱼、饮食。\
-**ENGLISH OK**, but I will response in CHINESE.
 
 一名普普通通的学牲；穿梭在各种感兴趣的东西之间，时不时掉落一点翻译贡献。
 
 兴趣点大多关于《我的世界》、《原神》和 _Nonebot_ 开发。
+
+Eilles, the same name "金羿ELS" is at all the social medias like youtube, twitter and so on.\
+Like the colour of BLUE & WHITE, good at writing and sleeping, love delicious foods.
+
+A student which cannot be more common, feel free to chat with me, I could do translation work between Chinese and English.
+
+Most of my interests are about _Minecraft_, and also _Genshin Impact_ and _Honkai: Star Rail_.
+
+Below are my social links.
 
 </a>
 
