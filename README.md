@@ -36,7 +36,7 @@ Below are my social links.
 </a>
 
 <a href="https://github.com/EillesWan/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EillesWan&layout=compact&theme=dracula&locale=cn&hide_border=true&title_color=4C2EE5&bg_color=-30,8F93FF,0089F2&card_width=440" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EillesWan&layout=compact&theme=dracula&locale=cn&hide_border=true&title_color=4C2EE5&bg_color=-30,8F93FF,0089F2" /><!--&card_width=440-->
 </a>
 
 [Bilibili: 金羿ELS]: https://img.shields.io/badge/哔站-金羿ELS-00A1E7?style=for-the-badge&labelColor=4E4C9C
