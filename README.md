@@ -39,6 +39,8 @@ Below are my social links.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EillesWan&layout=compact&theme=dracula&locale=cn&hide_border=true&title_color=4C2EE5&bg_color=-30,8F93FF,0089F2" /><!--&card_width=440-->
 </a>
 
+![访客计数](https://api.likepoems.com/counter/get/@EillesTsin?theme=gelbooru)
+
 [Bilibili: 金羿ELS]: https://img.shields.io/badge/哔站-金羿ELS-00A1E7?style=for-the-badge&labelColor=4E4C9C
 [Gitee: 金羿ELS]: https://img.shields.io/badge/码云-金羿ELS-00A1E7?style=for-the-badge&labelColor=4E4C9C
 [萌娘百科: W-YI]: https://img.shields.io/badge/萌百-W--YI-00A1E7?style=for-the-badge&labelColor=4E4C9C
