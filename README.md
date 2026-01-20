@@ -45,29 +45,21 @@ Below are my social links.
 [![][Twitter: 金羿ELS]](https://x.com/EillesW)
 [![][Telegram: 金羿]](https://t.me/EillesWan)
 
-<br>
-<p align="center">《墨言江山，不知何以言》</p>
-<br>
 
-<!--
-<p href="https://github.com/EillesWan/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=EillesWan&show_icons=true&theme=dracula&locale=cn&hide_border=true&title_color=4C2EE5&bg_color=-30,8F93FF,0089F2&include_all_commits=true&line_height=20" />
-</p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cactus+Classical+Serif&size=30&duration=3000&pause=6000&color=4C2EE5&background=AB70FF00&center=true&vCenter=true&width=435&lines=%E3%80%8A%E5%A2%A8%E8%A8%80%E6%B1%9F%E5%B1%B1%EF%BC%8C%E4%B8%8D%E7%9F%A5%E4%BD%95%E4%BB%A5%E8%A8%80%E3%80%8B" alt="Typing SVG" /></a></a></p>
 
-<p href="https://github.com/EillesWan/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EillesWan&layout=compact&theme=dracula&locale=cn&hide_border=true&title_color=4C2EE5&bg_color=-30,8F93FF,0089F2" /><!--&card_width=440-->
-</p>
 
 <p align="center" href="https://github.com/EillesWan/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EillesWan&layout=compact&theme=dracula&locale=cn&hide_border=true&title_color=4C2EE5&bg_color=-30,8F93FF,0089F2" />
   <img src="https://github-readme-stats.vercel.app/api?username=EillesWan&show_icons=true&theme=dracula&locale=cn&hide_border=true&title_color=4C2EE5&bg_color=-30,8F93FF,0089F2&include_all_commits=true&line_height=20" />
 </p>
 
-<br>
-<p align="center">《锦书良期，未明如何书》</p>
-<br>
 
-<p align="center"><img align="center" src="https://api.likepoems.com/counter/get/@EillesTsin?theme=gelbooru" /><br>感谢参访此页，来日愿君安梦。<br>Thank you for visiting.<br><span style="font-size: smaller;"><small>愿阁下往后平静，岿然安好，走出自己想要的生活。</small></span></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cactus+Classical+Serif&size=30&duration=3000&pause=6000&color=4C2EE5&background=AB70FF00&center=true&vCenter=true&width=435&lines=%E3%80%8A%E9%8C%A6%E6%9B%B8%E8%89%AF%E6%9C%9F%EF%BC%8C%E6%9C%AA%E6%98%8E%E5%A6%82%E4%BD%95%E6%9B%B8%E3%80%8B" alt="Typing SVG" /></a></p>
+
+
+<p align="center"><img align="center" src="https://api.likepoems.com/counter/get/@EillesTsin?theme=gelbooru" /><br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chiron+Sung+HK&weight=500&size=24&duration=3000&pause=2000&color=4E4C9C&background=0089F200&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=110&lines=%E6%84%9F%E8%B0%A2%E5%8F%82%E8%AE%BF%E6%AD%A4%E9%A1%B5%EF%BC%8C%E6%9D%A5%E6%97%A5%E6%84%BF%E5%90%9B%E5%AE%89%E6%A2%A6%E3%80%82;Thank+you+for+visiting.;%E6%84%BF%E9%98%81%E4%B8%8B%E5%BE%80%E5%90%8E%E5%B9%B3%E9%9D%99%EF%BC%8C%E5%B2%BF%E7%84%B6%E5%AE%89%E5%A5%BD%EF%BC%8C%E8%B5%B0%E5%87%BA%E8%87%AA%E5%B7%B1%E6%83%B3%E8%A6%81%E7%9A%84%E7%94%9F%E6%B4%BB%E3%80%82" alt="Typing SVG" /></a></p>
 
 
 
